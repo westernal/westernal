@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm Ali Navidi👋
+I'm a front-end developer but I know some of back-end developing and I love to learn more!
 
-<!--
-**westernal/westernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a social media
+- 📫 How to reach me: ali_navidi24@yahoo.com
+- ⚡ My website: https://westernal.me/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## My GitHub Stats
+![Ali Navidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=westernal&show_icons=true&theme=cobalt)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=dark)](https://git.io/streak-stats)
