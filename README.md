@@ -1,6 +1,13 @@
 ### Hi there I'm Ali Navidi👋
 I'm a front-end developer but I know some of back-end developing and I love to learn more!
 
+
+
+- 🔭 I’m currently working on a social media
+- 📫 How to reach me: ali_navidi24@yahoo.com
+- ⚡ My website: https://westernal.me/ 
+
+## Social medias
 <p align="left">
 <a href="https://dev.to/westernal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="westernal" height="30" width="40" /></a>
 <a href="https://twitter.com/westernal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="westernal" height="30" width="40" /></a>
@@ -8,11 +15,6 @@ I'm a front-end developer but I know some of back-end developing and I love to l
 <a href="https://stackoverflow.com/users/15353979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15353979" height="30" width="40" /></a>
 <a href="https://instagram.com/aliinavidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliinavidi" height="30" width="40" /></a>
 </p>
-
-- 🔭 I’m currently working on a social media
-- 📫 How to reach me: ali_navidi24@yahoo.com
-- ⚡ My website: https://westernal.me/ 
-
 
 
 ## My GitHub Stats
