@@ -18,7 +18,7 @@ I'm a front-end developer but I know some of back-end developing and I love to l
 
 
 ##  GitHub Stats
-![Ali Navidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=westernal&show_icons=true&theme=cobalt)
+![Ali Navidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=westernal&show_icons=true&theme=midnight-purple)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=cobalt)](https://git.io/streak-stats)
 
 ##  Skills
