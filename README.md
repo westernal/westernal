@@ -18,6 +18,7 @@ I'm a front-end developer but I know some of back-end developing and I love to l
 
 ## Top Repository
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=westernal&repo=social-media-frontend&theme=midnight-purple)](https://github.com/westernal/social-media-frontend)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=westernal&repo=social-media-backend&theme=midnight-purple)](https://github.com/westernal/social-media-backend)
 
 
 ##  GitHub Stats
