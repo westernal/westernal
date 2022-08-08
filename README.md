@@ -16,6 +16,9 @@ I'm a front-end developer but I know some of back-end developing and I love to l
 <a href="https://instagram.com/aliinavidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliinavidi" height="30" width="40" /></a>
 </p>
 
+## Top Repository
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=westernal&repo=social-media-frontend&theme=midnight-purple)](https://github.com/westernal/social-media-frontend)
+
 
 ##  GitHub Stats
 ![Ali Navidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=westernal&show_icons=true&theme=midnight-purple)
