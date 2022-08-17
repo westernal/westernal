@@ -1,5 +1,5 @@
 ### Hi there I'm Ali Navidi👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=9d38fc&width=435&lines=Full-stack+web+developer;Software+engineering+student;Always+learning+new+things;Working+hard+to+be+better)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&pause=1000&color=9d38fc&width=435&lines=Full-stack+web+developer;Software+engineering+student;Always+learning+new+things;Working+hard+to+be+better)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on a social media: https://social-media-westernal.vercel.app/
