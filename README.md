@@ -1,6 +1,5 @@
 ### Hi there I'm Ali Navidi👋
-I'm a front-end developer but I know some of back-end developing and I love to learn more!
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=6C2AB1&width=435&lines=Frontend+Developer;Software+Engineering+student;Always+learning+new+things;Working+hard+to+be+better+)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on a social media: https://social-media-westernal.vercel.app/
