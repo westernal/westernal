@@ -12,7 +12,7 @@
 </p>
 
 
-- 🔭 I’m currently working on a social media: https://social-media-westernal.vercel.app/
+- 🔭 I’m currently working on a social media: https://www.westernal.net/home
 - 📫 How to reach me: ali_navidi24@yahoo.com
 - ⚡ My website: https://westernal.me/ 
 - 📝 I regularly write articles on [https://dev.to/westernal](https://dev.to/westernal)
