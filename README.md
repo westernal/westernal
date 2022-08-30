@@ -11,7 +11,6 @@
    </a>
 </p>
 
-
 - 🔭 I’m currently working on a social media: https://www.westernal.net/home
 - 📫 How to reach me: ali_navidi24@yahoo.com
 - ⚡ My website: https://westernal.me/ 
