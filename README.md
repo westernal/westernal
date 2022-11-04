@@ -33,7 +33,7 @@
 ##  GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=midnight-purple)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=westernal&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="westernal" /></p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=westernal&bg_color=000000&color=9d38fc&line=9d38fc&point=FFFFFF&hide_border=true" /></a>
+
 
 
 ##  Skills
