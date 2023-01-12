@@ -26,13 +26,13 @@
 </p>
 
 ## Top Repositories
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=westernal&repo=social-media-frontend&theme=midnight-purple)](https://github.com/westernal/social-media-frontend)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=westernal&repo=social-media-backend&theme=midnight-purple)](https://github.com/westernal/social-media-backend)
+[![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-frontend&theme=midnight-purple)](https://github.com/westernal/social-media-frontend)
+[![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-backend&theme=midnight-purple)](https://github.com/westernal/social-media-backend)
 
 
 ##  GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=midnight-purple)](https://git.io/streak-stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=westernal&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="westernal" /></p>
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=westernal&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="westernal" /></p>
 
 
 
