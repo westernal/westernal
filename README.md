@@ -25,6 +25,12 @@
 <a href="https://instagram.com/aliinavidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliinavidi" height="40" width="50" /></a>
 </p>
 
+##  Skills
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind" />
+  </a>
+   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+
 ## Top Repositories
 [![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-frontend&theme=midnight-purple)](https://github.com/westernal/social-media-frontend)
 [![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-backend&theme=midnight-purple)](https://github.com/westernal/social-media-backend)
@@ -33,12 +39,10 @@
 ##  GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=midnight-purple)](https://git.io/streak-stats)
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=westernal&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="westernal" />
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=westernal&theme=midnight-purple&show_icons=true" alt="Milaan's Github readme stats">
 
 
 
 
-##  Skills
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind" />
-  </a>
+
 
