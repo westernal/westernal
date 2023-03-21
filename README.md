@@ -17,7 +17,7 @@
 - 📝 I regularly write articles on [https://dev.to/westernal](https://dev.to/westernal)
 
 ## Social Medias
-<p align="left">
+
 <a href="https://dev.to/westernal" target="blank">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/ali-navidi" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://stackoverflow.com/users/15353979" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 <a href="https://instagram.com/aliinavidi" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
+
 
 ##  Skills
   <a href="https://skillicons.dev">
