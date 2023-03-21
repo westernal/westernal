@@ -18,11 +18,13 @@
 
 ## Social Medias
 <p align="left">
-<a href="https://dev.to/westernal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="westernal" height="40" width="50" /></a>
-<a href="https://twitter.com/westernal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="westernal" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/ali-navidi-850a80209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-navidi-850a80209" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/15353979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15353979" height="40" width="50" /></a>
-<a href="https://instagram.com/aliinavidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliinavidi" height="40" width="50" /></a>
+<a href="https://dev.to/westernal" target="blank">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+<a href="https://twitter.com/westernal" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://linkedin.com/in/ali-navidi" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://stackoverflow.com/users/15353979" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+<a href="https://instagram.com/aliinavidi" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ##  Skills
