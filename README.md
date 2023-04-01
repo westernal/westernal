@@ -33,7 +33,7 @@
 
 ##  Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind,cypress" />
   </a>
    <img src="https://user-images.githubusercontent.com/79543272/226642168-fac858f8-b10c-4a0d-b066-e42678408c81.svg" alt="cypress" width="40" height="40"/>
 
@@ -46,9 +46,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=midnight-purple)](https://git.io/streak-stats)
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=westernal&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="westernal" />
  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=westernal&theme=midnight-purple&show_icons=true" alt="Milaan's Github readme stats">
-
-
-
-
-
-
