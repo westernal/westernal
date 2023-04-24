@@ -5,7 +5,7 @@
 <p align=center>
  <a href="https://git.io/typing-svg">
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&pause=1000&color=9d38fc&center=true&vCenter=true&width=435&lines=Front-end+developer;Software+engineering+student;Always+learning+new+things;Working+hard+to+be+better"
+          src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&pause=1000&color=9d38fc&center=true&vCenter=true&width=435&lines=Front-end+developer;Software+engineer;Always+learning+new+things;Working+hard+to+be+better"
           alt="Typing SVG"
         />
    </a>
@@ -33,7 +33,7 @@
 
 ##  Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind,cypress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind,cypress,redux" />
   </a>
    <img src="https://user-images.githubusercontent.com/79543272/226642168-fac858f8-b10c-4a0d-b066-e42678408c81.svg" alt="cypress" width="40" height="40"/>
 
