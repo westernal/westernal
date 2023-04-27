@@ -43,6 +43,6 @@
 
 
 ##  GitHub Stats
-<div>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=midnight-purple)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=midnight-purple)](https://git.io/streak-stats)
 <div><img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=westernal&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="westernal" /></div>
 <div> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=westernal&theme=midnight-purple&show_icons=true" alt="Milaan's Github readme stats"></div>
