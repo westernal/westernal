@@ -18,8 +18,6 @@
 - ⚡ My website: https://alinavidi.dev/ 
 - 📝 I regularly write articles on [https://dev.to/westernal](https://dev.to/westernal)
 
-<a href="https://www.buymeacoffee.com/westernal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 ## Social Medias
 
 <a href="https://dev.to/westernal" target="blank">
