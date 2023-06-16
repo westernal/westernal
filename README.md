@@ -31,7 +31,7 @@
 
 ##  Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind,redux,jest" />
   </a>
    <img src="https://user-images.githubusercontent.com/79543272/226642168-fac858f8-b10c-4a0d-b066-e42678408c81.svg" alt="cypress" width="40" height="40"/>
 
