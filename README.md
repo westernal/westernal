@@ -5,7 +5,7 @@
 <p align=center>
  <a href="https://git.io/typing-svg">
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&pause=1000&color=9d38fc&center=true&vCenter=true&width=435&lines=Front-end+developer;Software+engineer;Always+learning+new+things;Working+hard+to+be+better"
+          src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&pause=1000&color=718ca1&center=true&vCenter=true&width=435&lines=Front-end+developer;Software+engineer;Always+learning+new+things;Working+hard+to+be+better"
           alt="Typing SVG"
         />
    </a>
@@ -35,11 +35,11 @@
   </a>
 
 ## Top Repositories
-[![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-frontend&theme=midnight-purple)](https://github.com/westernal/social-media-frontend)
-[![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-backend&theme=midnight-purple)](https://github.com/westernal/social-media-backend)
+[![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-frontend&theme=city_lights)](https://github.com/westernal/social-media-frontend)
+[![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-backend&theme=city_lights)](https://github.com/westernal/social-media-backend)
 
 
 ##  GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=midnight-purple)](https://git.io/streak-stats)
-<div><img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=westernal&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="westernal" /></div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=city-lights)](https://git.io/streak-stats)
+<div><img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=westernal&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="westernal" /></div>
 
