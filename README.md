@@ -33,7 +33,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind,redux,jest,webpack" />
   </a>
-   <img src="https://user-images.githubusercontent.com/79543272/226642168-fac858f8-b10c-4a0d-b066-e42678408c81.svg" alt="cypress" width="40" height="40"/>
 
 ## Top Repositories
 [![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-frontend&theme=midnight-purple)](https://github.com/westernal/social-media-frontend)
