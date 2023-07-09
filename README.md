@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="https://github.com/westernal/westernal/assets/79543272/f7602f95-9149-4bb4-9752-74a020232ab6" style="width: 100%;" alt="Click to see the source">
+  <img src="https://github.com/westernal/westernal/assets/79543272/36986255-f3a9-4d5a-bb8e-cb66b19faddd" style="width: 100%;" alt="Click to see the source">
 </div>
 
 
