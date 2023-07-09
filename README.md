@@ -1,13 +1,17 @@
-<div style="padding-bottom: 17%; /*this is your height/width ratio*/
-    height: 0;">
-  <img src="https://github.com/westernal/westernal/assets/79543272/4cd0ea44-ecf0-4b0f-8946-47d2428d3850" style="width: 100%;" alt="Click to see the source">
-</div>
-
 
 <p align=center>
  <a href="https://git.io/typing-svg">
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&pause=1000&color=718ca1&center=true&vCenter=true&width=435&lines=Front-end+developer;Software+engineer;Always+learning+new+things;Working+hard+to+be+better"
+          src="https://readme-typing-svg.herokuapp.com?font=orbitron&size=39&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=ALI+NAVIDI"
+          alt="Typing SVG"
+        />
+   </a>
+</p>
+
+<p align=center>
+ <a href="https://git.io/typing-svg">
+        <img
+          src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&pause=1000&color=718ca1&center=true&vCenter=true&width=435&lines=Front-end+Developer;Software+Engineer;Always+learning+new+things;Working+hard+to+be+better"
           alt="Typing SVG"
         />
    </a>
@@ -15,10 +19,10 @@
 
 
 
-- 🔭 I’m currently working on a social media: https://www.westernal.net/
-- 📫 How to reach me: ali_navidi24@yahoo.com
-- ⚡ My website: https://alinavidi.dev/ 
-- 📝 I regularly write articles on [https://dev.to/westernal](https://dev.to/westernal)
+-  I’m currently working on a social media: https://www.westernal.net/
+-  How to reach me: ali_navidi24@yahoo.com
+-  My website: https://alinavidi.dev/ 
+-  I regularly write articles on [https://dev.to/westernal](https://dev.to/westernal)
 
 ## Social Medias
 
