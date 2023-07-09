@@ -1,22 +1,11 @@
 
-<p align=center>
- <a href="https://git.io/typing-svg">
-        <img
-          src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=6000&pause=1000&color=483d8b&center=true&vCenter=true&repeat=false&width=435&lines=ALI+NAVIDI"
-          alt="Typing SVG"
-        />
-   </a>
-</p>
-
 <div style="width: 100%; display: block;
     height: auto;
     text-align: center;
     box-sizing: border-box;
     padding: 0;">
-  <img src="https://github.com/westernal/westernal/assets/79543272/03a7faff-c88c-4d5e-81d0-b294a36a676e" style="width: 100%;" alt="Click to see the source">
+  <img src="https://github.com/westernal/westernal/assets/79543272/a2f78fcb-8983-4de9-9837-8099867c9b2d" style="width: 100%;" alt="Click to see the source">
 </div>
-![name](https://github.com/westernal/westernal/assets/79543272/03a7faff-c88c-4d5e-81d0-b294a36a676e)
-
 
 
 <p align=center>
