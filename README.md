@@ -1,4 +1,5 @@
-![name](https://github.com/westernal/westernal/assets/79543272/07747563-8970-485a-8646-492d0b4d6e57)
+![name](https://github.com/westernal/westernal/assets/79543272/228d4e10-b33e-4e7c-90e8-603b182e53af)
+
 
 
 
