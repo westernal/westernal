@@ -4,8 +4,9 @@
     text-align: center;
     box-sizing: border-box;
     padding: 0;">
-  <img src="https://github.com/westernal/westernal/assets/79543272/f5125113-7482-4401-a39f-6f4ec5021a97" style="width: 100%;" alt="Click to see the source">
+  <img src="https://github.com/westernal/westernal/assets/79543272/4c9dac7a-3253-4cd7-aa9a-a5997e939b15" style="width: 100%;" alt="Click to see the source">
 </div>
+
 
 <p align=center>
  <a href="https://git.io/typing-svg">
