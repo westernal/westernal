@@ -1,5 +1,6 @@
-<div style="width: 100%;">
-  <img src="https://github.com/westernal/westernal/assets/79543272/2b8c347b-75fc-4869-ac16-5c4b1f7e7e38" style="width: 100%;" alt="Click to see the source">
+<div style="padding-bottom: 17%; /*this is your height/width ratio*/
+    height: 0;">
+  <img src="https://github.com/westernal/westernal/assets/79543272/4cd0ea44-ecf0-4b0f-8946-47d2428d3850" style="width: 100%;" alt="Click to see the source">
 </div>
 
 
