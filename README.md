@@ -1,6 +1,6 @@
-![name](https://github.com/westernal/westernal/assets/79543272/ca2ea5ea-4670-4320-8eb3-383707d896b8)
-
-
+<div style="width: 100%;">
+  <img src="https://github.com/westernal/westernal/assets/79543272/f7602f95-9149-4bb4-9752-74a020232ab6" style="width: 100%;" alt="Click to see the source">
+</div>
 
 
 <p align=center>
