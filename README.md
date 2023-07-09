@@ -2,7 +2,7 @@
 <p align=center>
  <a href="https://git.io/typing-svg">
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=orbitron&size=39&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=ALI+NAVIDI"
+          src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=39&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=ALI+NAVIDI"
           alt="Typing SVG"
         />
    </a>
