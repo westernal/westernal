@@ -13,10 +13,10 @@
     text-align: center;
     box-sizing: border-box;
     padding: 0;">
-  <img src="https://github.com/westernal/westernal/assets/79543272/1a5b797b-8463-4341-b459-ad01b29eecf0" style="width: 100%;" alt="Click to see the source">
+  <img src="https://github.com/westernal/westernal/assets/79543272/03a7faff-c88c-4d5e-81d0-b294a36a676e" style="width: 100%;" alt="Click to see the source">
 </div>
+![name](https://github.com/westernal/westernal/assets/79543272/03a7faff-c88c-4d5e-81d0-b294a36a676e)
 
-![name](https://github.com/westernal/westernal/assets/79543272/1a5b797b-8463-4341-b459-ad01b29eecf0)
 
 
 <p align=center>
