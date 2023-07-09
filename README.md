@@ -1,4 +1,3 @@
-![name](https://github.com/westernal/westernal/assets/79543272/e6ae13f1-e606-4533-be8b-4f41f3d53588)
 
 
 
