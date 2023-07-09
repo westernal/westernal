@@ -1,11 +1,7 @@
 
-<div style="width: 100%; display: block;
-    height: auto;
-    text-align: center;
-    box-sizing: border-box;
-    padding: 0;">
-  <img src="https://github.com/westernal/westernal/assets/79543272/4c9dac7a-3253-4cd7-aa9a-a5997e939b15" style="width: 100%;" alt="Click to see the source">
-</div>
+![name](https://github.com/westernal/westernal/assets/79543272/42aae283-3e66-483d-b485-960798cb8890)
+
+
 
 
 <p align=center>
