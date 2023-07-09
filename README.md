@@ -8,6 +8,17 @@
    </a>
 </p>
 
+<div style="width: 100%; display: block;
+    height: auto;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 0;">
+  <img src="https://github.com/westernal/westernal/assets/79543272/1a5b797b-8463-4341-b459-ad01b29eecf0" style="width: 100%;" alt="Click to see the source">
+</div>
+
+![name](https://github.com/westernal/westernal/assets/79543272/1a5b797b-8463-4341-b459-ad01b29eecf0)
+
+
 <p align=center>
  <a href="https://git.io/typing-svg">
         <img
