@@ -1,6 +1,7 @@
-<h3 align="center">
-  Hi there I'm Ali Navidi👋
-</h3>
+![name](https://github.com/westernal/westernal/assets/79543272/e6ae13f1-e606-4533-be8b-4f41f3d53588)
+
+
+
 
 <p align=center>
  <a href="https://git.io/typing-svg">
