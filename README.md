@@ -29,7 +29,7 @@
 
 ##  Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,nodejs,express,mongodb,postgres,c,java,py,tailwind,redux,jest,webpack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,angular,nodejs,express,mongodb,postgres,c,java,py,tailwind,redux,jest,webpack" />
   </a>
 
 ## Top Repositories
