@@ -41,3 +41,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westernal&theme=github_dark_blue)](https://git.io/streak-stats)
 <div><img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=westernal&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="westernal" /></div>
 
+## StackOverflow Stats
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=15353979)
+
+
