@@ -11,7 +11,6 @@
 
 
 
--  I’m currently working on a social media: https://www.westernal.net/
 -  How to reach me: ali_navidi24@yahoo.com
 -  My website: https://alinavidi.dev/ 
 -  I regularly write articles on [https://dev.to/westernal](https://dev.to/westernal)
@@ -29,12 +28,8 @@
 
 ##  Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,remix,svelte,angular,nodejs,express,mongodb,postgres,c,java,py,tailwind,redux,jest,webpack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,tailwind,redux,jest,webpack" />
   </a>
-
-## Top Repositories
-[![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-frontend&theme=github_dark)](https://github.com/westernal/social-media-frontend)
-[![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=westernal&repo=social-media-backend&theme=github_dark)](https://github.com/westernal/social-media-backend)
 
 
 ##  GitHub Stats
